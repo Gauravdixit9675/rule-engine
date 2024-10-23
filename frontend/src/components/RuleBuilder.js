@@ -65,3 +65,4 @@ const RuleBuilder = () => {
     </div>
   );
 };
+export default RuleBuilder
